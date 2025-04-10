@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on IoT based Portable Infant Incubation chamber that can be tracked using Android Device<br><br>My Interest  is :<br>- IoT<br>- Smart System<br>- Server Management<br><br>Skills I'm Currently Learning :<br>- Wireless Sensors Network<br>- Internet of Things<br>- Python<br>- Big Data<br>- JavaScript<br>- C<br>- C++<br><br>things that I can Do : <br>- Microcontroller Programming<br>- IoT Based System<br>- Game Server management<br>- Web Server Admin<br>- Home Lab Admin
+I'm currently working on IoT based Portable Infant Incubation chamber that can be tracked using Android Device<br><br>My Interest  is :<br>- IoT<br>- Smart System<br>- Server Management<br><br>Skills I'm Currently Learning :<br>- Wireless Sensors Network<br>- Internet of Things<br>- Python<br>- Big Data<br>- JavaScript<br>- C<br>- C++<br><br>things that I can Do : <br>- Microcontroller Programming<br>- IoT Based System<br>- Game Server management<br>- Web Server Admin<br>- Home Lab Admin<br>- CNC Operator<br>- FDM Printing Operator
 
 
 ## 🌐 Socials:
